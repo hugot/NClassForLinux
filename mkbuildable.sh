@@ -1,7 +1,10 @@
 #! /usr/bin/env bash
 #
-# replaceslash.sh
-# Copyright (C) 2017 hugo <hugo@supersudomachine>
+# mkbuildable.sh
+#
+# This script can be used to make NClass buildable on linux
+#
+# Copyright (C) 2017 Hugo
 #
 # Distributed under terms of the MIT license.
 #
