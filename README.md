@@ -1,7 +1,9 @@
 # NClassForLinux
 NClass v2.04 that will build on linux 
 
-THIS REPOSITORY CONTAINS NOTHING MORE THAN THE SOURCE CODE OF THE LAST VERSION OF NCLASS AS RELEASED BY Balazs Tihanyi. The projects home is at http://nclass.sourceforge.net/index.html . All I have done is manipulate the build files with a simple bash script so that the project will build under linux. To build the project all you need to do is run the NAnt command in the project folder. The script I created is in the root of the project as it might be of use for future releases as well.
+THIS REPOSITORY CONTAINS NOTHING MORE THAN THE SOURCE CODE OF THE LAST VERSION OF NCLASS AS RELEASED BY Balazs Tihanyi. The projects home is at http://nclass.sourceforge.net/index.html . All I have done is manipulate the build files with a simple bash script so that the project will build under linux. The script I created is in the root of the project as it might be of use for future releases as well.
+
+What you need to build the project is to have Mono 4 and NAnt installed. Run the nant command in the project root and the project should build without any problems (that I know of).
 
 FOLLOWING IS A DESCRIPTION OF NCLASS AS CAN BE FOUND AT http://nclass.sourceforge.net/index.html
 
